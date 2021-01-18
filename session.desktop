@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Version=1.4.4
+Name=Session
+Comment=Decentralized Private Messenger
+Icon=/usr/share/Session/session-desktop.png
+Exec=/usr/bin/Session
+Terminal=false
+MimeType=x-scheme-handler/session;
+Categories=Chat;Network;InstantMessaging;
+Encoding=UTF-8
+X-GNOME-UsesNotifications=true
